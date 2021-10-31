@@ -1,4 +1,4 @@
-![cssmeme](/images/cssmeme.gif)
+![cssmeme](cssmeme.gif)
 
 ##Wanna Chat?
 Msg me alifaresboulos@gmail.com
