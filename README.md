@@ -1,4 +1,11 @@
-### Hi there 👋
+![cssmeme](/images/cssmeme.gif)
+
+##Wanna Chat?
+Msg me alifaresboulos@gmail.com
+
+##For more laughs...
+https://www.pinterest.com/alifares8/dev-memes/
+
 
 <!--
 **alisarf/alisarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
