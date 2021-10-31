@@ -1,10 +1,11 @@
-![cssmeme](cssmemesml.gif)
-
 ## Wanna Chat?
 Msg me alifaresboulos@gmail.com
 
-## For more laughs...
-https://www.pinterest.com/alifares8/dev-memes/
+
+
+![cssmeme](cssmemesml.gif)
+more memes here... https://www.pinterest.com/alifares8/dev-memes/
+
 
 
 <!--
