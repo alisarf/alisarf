@@ -1,9 +1,9 @@
 ![cssmeme](cssmeme.gif)
 
-##Wanna Chat?
+## Wanna Chat?
 Msg me alifaresboulos@gmail.com
 
-##For more laughs...
+## For more laughs...
 https://www.pinterest.com/alifares8/dev-memes/
 
 
