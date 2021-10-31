@@ -1,11 +1,15 @@
 # Ali Fares-Boulos @alisarf
-__About__ <br>
-🌱 I’m currently learning React <br>
-😄 Pronouns: She/her/hers <br>
+__Pronouns__<br>
+:woman: She/her/hers <br>
 
-__Get in Touch__<br>
-email: alifaresboulos@gmail.com <br>
-portfolio: https://alisarfaresboulos.com/<br>
+__Hobbies__<br>
+🚴 Biking<br>
+🍝 Cooking<br>
+🌏 Traveling<br>
+
+<br>__Where to Find Me__<br>
+alifaresboulos@gmail.com <br>
+https://alisarfaresboulos.com/<br>
 
 
 <br>![cssmeme](cssmemesml.gif)<br>
