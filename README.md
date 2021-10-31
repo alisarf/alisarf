@@ -1,6 +1,6 @@
-- :wave: Wanna Chat? -> alifaresboulos@gmail.com
-- 🌱 I’m currently learning React
-- 😄 Pronouns: She/her/hers
+:wave: Wanna Chat? -> alifaresboulos@gmail.com <br>
+🌱 I’m currently learning React <br>
+😄 Pronouns: She/her/hers <br>
 
 ![cssmeme](cssmemesml.gif)
 <br>more memes here... https://www.pinterest.com/alifares8/dev-memes/
