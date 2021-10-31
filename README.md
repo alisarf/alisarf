@@ -1,10 +1,15 @@
-:wave: Wanna Chat? -> alifaresboulos@gmail.com <br>
+# Ali Fares-Boulos @alisarf
+__About__ <br>
 🌱 I’m currently learning React <br>
 😄 Pronouns: She/her/hers <br>
 
-![cssmeme](cssmemesml.gif)
-<br>more memes here...  <br>
-https://www.pinterest.com/alifares8/dev-memes/
+__Get in Touch__<br>
+email: alifaresboulos@gmail.com <br>
+portfolio: https://alisarfaresboulos.com/<br>
+
+
+<br>![cssmeme](cssmemesml.gif)<br>
+<br>More of my favorite memes [here](https://www.pinterest.com/alifares8/dev-memes/)...  <br>
 
 
 
