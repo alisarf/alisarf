@@ -1,7 +1,6 @@
-## Wanna Chat?
-Msg me alifaresboulos@gmail.com
-
-
+- :wave: Wanna Chat? -> alifaresboulos@gmail.com
+- 🌱 I’m currently learning React
+- 😄 Pronouns: She/her/hers
 
 ![cssmeme](cssmemesml.gif)
 <br>more memes here... https://www.pinterest.com/alifares8/dev-memes/
