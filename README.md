@@ -3,7 +3,8 @@
 😄 Pronouns: She/her/hers <br>
 
 ![cssmeme](cssmemesml.gif)
-<br>more memes here... https://www.pinterest.com/alifares8/dev-memes/
+<br>more memes here...  <br>
+https://www.pinterest.com/alifares8/dev-memes/
 
 
 
