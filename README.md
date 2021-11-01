@@ -11,6 +11,11 @@ __Hobbies__<br>
 alifaresboulos@gmail.com <br>
 https://alisarfaresboulos.com/<br>
 
+## Current Project
+__Acuity Dependent Staffing Matrix__
+Web application for hospitals to configure Q4 staffing needs based on individual patient acuity.
+___built with React___
+
 
 <br>![cssmeme](cssmemesml.gif)<br>
 <br>More of my favorite memes [here](https://www.pinterest.com/alifares8/dev-memes/)...  <br>
