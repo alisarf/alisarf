@@ -7,18 +7,16 @@ __Hobbies__<br>
 🍝 Cooking<br>
 🌏 Traveling<br>
 
-<br>__Where to Find Me__<br>
-alifaresboulos@gmail.com <br>
-https://alisarfaresboulos.com/<br>
-
 ## Current Project
 __Acuity Dependent Staffing Matrix__<br>
 A web application for hospitals to configure Q4 staffing needs based on individual patient acuity.<br>
 
+<br>__Where to Find Me__<br>
+alifaresboulos@gmail.com <br>
+https://alisarfaresboulos.com/<br>
 
 <br>![cssmeme](cssmemesml.gif)<br>
 <br>More of my favorite memes [here](https://www.pinterest.com/alifares8/dev-memes/)...  <br>
-
 
 
 <!--
