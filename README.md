@@ -8,7 +8,7 @@ __Hobbies__<br>
 🌏 Traveling<br>
 
 ## Current Project
-__Acuity Dependent Staffing Matrix__<br>
+__Acuity Dependent Staffing Matrix__ 🧬<br>
 A web application for hospitals to configure Q4 staffing needs based on individual patient acuity.<br>
 https://github.com/alisarf/Acuity-Dependent-Staffing-Matrix
 
