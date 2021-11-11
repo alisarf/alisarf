@@ -12,6 +12,10 @@ __Acuity Dependent Staffing Matrix__ 🧬<br>
 A web application for hospitals to configure Q4 staffing needs based on individual patient acuity.<br>
 https://github.com/alisarf/Acuity-Dependent-Staffing-Matrix
 
+__Thwart Me__ 🎮<br>
+An oppurtunity for gamers to find new meaning in some of their favorite games. <br>
+In collaboration with @Matthew-Beasley
+
 <br>__Where to Find Me__<br>
 alifaresboulos@gmail.com <br>
 https://alisarfaresboulos.com/<br>
