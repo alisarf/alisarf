@@ -17,8 +17,6 @@ https://github.com/alisarf/Acuity-Dependent-Staffing-Matrix
 alifaresboulos@gmail.com <br>
 https://alisarfaresboulos.com/<br>
 
-<br>![cssmeme](cssmemesml.gif)<br>
-<br>More of my favorite memes [here](https://www.pinterest.com/alifares8/dev-memes/)...  <br>
 
 
 <!--
