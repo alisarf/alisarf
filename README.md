@@ -3,14 +3,15 @@ __Pronouns__<br>
 :woman: She/her/hers <br>
 
 __Hobbies__<br>
-🚴 Biking<br>
+🚴 Cycling<br>
 🍝 Cooking<br>
 🌏 Traveling<br>
+🛠️ DIYs<br>
 
 ## Current Project
 __Acuity Dependent Staffing Matrix__ 🧬<br>
 A web application for hospitals to configure Q4 staffing needs based on individual patient acuity.<br>
-https://github.com/alisarf/Acuity-Dependent-Staffing-Matrix
+https://github.com/alisarf/staff_matrix
 
 
 <br>__Where to Find Me__<br>
