@@ -1,6 +1,6 @@
 # Ali Fares-Boulos @alisarf
 __Pronouns__<br>
-:woman: She/her/hers <br>
+:woman: She/her <br>
 
 __Hobbies__<br>
 🚴 Cycling<br>
